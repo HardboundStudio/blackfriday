@@ -1,0 +1,20 @@
+{
+  "name": "CopyShelf",
+  "url": "https://apps.microsoft.com/detail/9NZJBHT8MQ5T",
+  "description": "Clipboard manager for Windows that files text, images, links and files into four separate tabs",
+  "category": "utilities",
+  "platforms": [
+    "windows"
+  ],
+  "deal": "50% off the one-time purchase, 27 to 30 November",
+  "pricing": "one-time",
+  "price": {
+    "regular": 9.99,
+    "sale": 4.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-30",
+  "icon": "https://hardboundstudio.com/email/v4/mark-copyshelf.png"
+}
