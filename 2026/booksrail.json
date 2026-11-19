@@ -1,0 +1,20 @@
+{
+  "name": "BooksRail",
+  "url": "https://apps.microsoft.com/detail/9PL6X2RTW7T9",
+  "description": "Double-entry accounting for the property you own, kept in one encrypted file on your own Windows PC",
+  "category": "business",
+  "platforms": [
+    "windows"
+  ],
+  "deal": "50% off the one-time unlock, 27 to 30 November",
+  "pricing": "one-time",
+  "price": {
+    "regular": 269.99,
+    "sale": 134.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-30",
+  "icon": "https://hardboundstudio.com/email/v4/mark-booksrail.png"
+}
